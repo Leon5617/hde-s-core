@@ -1,0 +1,17 @@
+# 编译产物
+*.o
+*.out
+*.elf
+*.bin
+*.hex
+/test
+/build/
+tmp/
+
+# 编辑器缓存
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+add .gitignore
